@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#mf_videos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#videos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.video {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.video img {
+    max-width: 100%;
+}
+
+.star {
+    cursor: pointer;
+    color: gold;
+    font-size: 20px;
+}
