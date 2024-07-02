@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "bff", "bff", "{428AED9F-C832-4438-A8F6-1B48355BA853}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFF", "bff\BFF\BFF.csproj", "{5758D7A3-4F37-4129-AD20-7D2C781294BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5758D7A3-4F37-4129-AD20-7D2C781294BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5758D7A3-4F37-4129-AD20-7D2C781294BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5758D7A3-4F37-4129-AD20-7D2C781294BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5758D7A3-4F37-4129-AD20-7D2C781294BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5758D7A3-4F37-4129-AD20-7D2C781294BD} = {428AED9F-C832-4438-A8F6-1B48355BA853}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F824E7-7C5A-4169-BABC-6742938E966E}
+	EndGlobalSection
+EndGlobal

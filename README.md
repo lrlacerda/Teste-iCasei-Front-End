@@ -63,9 +63,6 @@
 
 4. Acesse `http://localhost:5000` no navegador.
 
-### Testes Unitários
 
-(TBD - Adicione instruções de testes unitários aqui)
 
-### Envio
-Envie o link do repositório para o e-mail `frontend@icasei.com.br` com o título "Teste FrontEnd 2024".
+
